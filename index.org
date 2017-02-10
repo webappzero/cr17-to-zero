@@ -146,7 +146,7 @@ Okay great, <name here>, is going to help me out. Ryan, please invite <name here
 
 ... (Jay interacts with guest speaker)
 
-Thank you for dropping in and helping us out. Isaac, see I told you Clojure folks were ready to help!
+Thank you for dropping in and helping us out <name here>. Isaac see I told you Clojure folks were friendly ready to help!
 
 <name here> isn't the only one of you who can make a difference today. 
 
@@ -1258,51 +1258,7 @@ How would you go about measuring the value you place on learing?
 
 ** The Value of Learning
 
-** TODO The Value of learning about learning
-
-** TODO The Value of Values
-:PROPERTIES:
-:reveal_extra_attr: data-state="hide-video" video-size="normal"
-:reveal_background_size: 100%
-:reveal_background: /resources/images/andromeda.jpg
-:END:
-
-#+BEGIN_NOTES
-[Extrapolate and elaborate on the Value of Values...] #TODO ;-)
-
-
-(NEXT SLIDE DOWN - DISCUSS.THEVALUEOFLEARNING.ORG SCREENSHOT)
-.
-
-.
-
-.
-
-#+END_NOTES
-
-** _ Value of Discourse full screen screenshot Discourse site :noexport:
-**  
-:PROPERTIES:
-:reveal_extra_attr: data-state="hide-video" video-size="normal" redpill-img-src="/resources/images/red-pill-link-white.png" qr-data="http://discuss.thevalueoflearning.org"
-:reveal_background_size: 70%
-:reveal_background: /resources/images/discuss-vol-screenshot.jpg
-:END:
-
-#+ATTR_REVEAL: :frag t
-file:resources/images/red-pill-link-white.png
-
-#+BEGIN_NOTES
-[There is a website. I made it. I hope that we can make it *ours*.]
-
-(FRAG RED PILL - link to discuss.thevalueoflearning.org)
-
-.
-
-.
-
-.
-
-#+END_NOTES
+** The Value of learning about learning
 
 * The actions
 What actions are consistent with this value?
@@ -1481,27 +1437,78 @@ Degreed, but not open format.
 
 ** TODO Conceptually Rich Pathways
 Back to Betty to tie it all together : )
-* TODO Closing
+
+** _ Value of Discourse full screen screenshot Discourse site      :noexport:
+**  
+   :PROPERTIES:
+   :reveal_extra_attr: data-state="hide-video" video-size="normal" redpill-img-src="/resources/images/red-pill-link-white.png" qr-data="http://discuss.thevalueoflearning.org"
+   :reveal_background_size: 70%
+   :reveal_background: /resources/images/discuss-vol-screenshot.jpg
+   :END:
+
+#+ATTR_REVEAL: :frag t
+file:resources/images/red-pill-link-white.png
+
+#+BEGIN_NOTES
+[There is a website. I made it. I hope that we can make it *ours*.]
+
+(FRAG RED PILL - link to discuss.thevalueoflearning.org)
+
+.
+
+.
+
+.
+
+#+END_NOTES
+** TODO The Value of Values
+   :PROPERTIES:
+   :reveal_extra_attr: data-state="hide-video" video-size="normal"
+   :reveal_background_size: 100%
+   :reveal_background: /resources/images/andromeda.jpg
+   :END:
+
+ #+BEGIN_NOTES
+ [Extrapolate and elaborate on the Value of Values...] #TODO ;-)
+
+
+ (NEXT SLIDE DOWN - DISCUSS.THEVALUEOFLEARNING.ORG SCREENSHOT)
+ .
+
+ .
+
+ .
+
+ #+END_NOTES
+
+
+
+
+
+
+
+* Closing
+#+BEGIN_NOTES 
 The ability to try is the one thing each living creature is given, and guaranteed to possess, for the duration of our stay.
+
 Software has parallel to learning, it touches nearly all fields of human endeavor as we move into our shared future. We must get it right.
 inclusivity via learning
 helping others is helping myself
 If RH can give 3 years off to us, what can I do?
 might feel like running at a windmill sometimes, but we keep charging, attack the problem
-** Closing Quote
+
+#+END_NOTES
+
+* Closing Quote
+
 #+BEGIN_QUOTE
 Live as if you were to die tomorrow. Learn as if you were to live forever. -- Mahatma Gandhi
 #+END_QUOTE
 
+#+BEGIN_NOTES 
+Live as if you were to die tomorrow. Learn as if you were to live forever. -- Mahatma Gandhi
+#+END_NOTES
 
-
-
-
-
-leftovers:
-   We're going to explore several aspects of learning through the framework of learning's /*worth*/.
-
-   But first, let's find out how Betty Edwards teaches drawing, so that we can begin to practice her techniques to visualize the problem at hand!
 
 
 * ********** Beyond this point is all notes ************ 
