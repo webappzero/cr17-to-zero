@@ -1423,7 +1423,7 @@ file:resources/images/red-pill-link-white.png
 .
 
 #+END_NOTES
-** TODO The Value of Values
+** The Value of Values
    :PROPERTIES:
    :reveal_extra_attr: data-state="hide-video" video-size="normal"
    :reveal_background_size: 100%
@@ -1453,16 +1453,23 @@ file:resources/images/red-pill-link-white.png
 
 
 #+BEGIN_NOTES 
-Software has parallel to learning, it touches nearly all fields of human endeavor as we move into our shared future. We must get it right.
+Software itself, has parallel to learning, it touches on nearly all fields of human endeavor as we move into our shared future. We must get it right.
 
 Learning is lever long enough to move the world and include everyone in our shared future, a future which is beckoning us to flourish through cooperation, the sharing of knowledge and the pursuit of wisdom.
-
 
 The ability to try is the one thing each living creature is given, and guaranteed to possess, for the duration of our stay.
 
 Therefore, let us try.
 
-We might feel like running at a the windmill at times, but we must keep charging, we must never give up.
+We might feel like we're  running at a the windmill at times, but we must keep charging, we must never give up.
+
+So carry on, learning as you do, for, in the word's of Rich Hickey, "learning, it's what we do".
+
+And never, ever let another tell you you're doing it wrong. You arrived here, grew into the person you are, as you are, as only you can be, learning along the way, trying, and trying and trying. Again, again, again.
+
+ Learning, I boldly declare, should always be considered more art than science, lest a 'learning scientist' arrive upon your doorstep (ignorant of who you really are, a learner through and through, and so much more) only to renounce your effort, and in kind, you're very being.
+
+For when I nod, and smile and wish you my best, please know that this is the person I see, you at your very, very best. Let us reconcile the truth for ourselves, each to their own, but let us reconcile with each other today. Time waits not! For only will you and I, one with the other, supporting each other, as do art and science, intuition and reason, love and law, solve our collective and existentially relevant problems. Today, I will hold as an ideal, humbly knowing that a great many times I will fall, and fall, and fall again, each time rising, with your help, to try my very best to give no offense, and take no offense as we reset, wipe the blackboard clean and break out a new box of chalk to 'science and see' the living  daylights out of this thing.
 
 #+END_NOTES
 
